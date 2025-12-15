@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 
 <b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/humble+bundle/cloud_infrastructure_and_devops_toolkit_packt_books_Social.png)](https://www.humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_1_c_cloudinfrastructureanddevopstoolkitpackt_bookbundle)</p></b> 
 
